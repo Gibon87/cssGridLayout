@@ -57,8 +57,7 @@ p {
 
 #showcase .bg-image {
   position: absolute;
-  background: #333
-    url("https://images.pexels.com/photos/160107/pexels-photo-160107.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb");
+  background-image: url('../img/1.jpg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
