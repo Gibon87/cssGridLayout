@@ -1,4 +1,4 @@
-# <h1>Welcome on my Website cssGridLauoyt</h1>
+# <h1>Welcome on my Website Css Grid Layout</h1>
 
 <p>I made a simple webisite by using CSS Grid .</p>
 
